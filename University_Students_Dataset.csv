@@ -1,0 +1,1001 @@
+StudentID,Name,Age,Gender,Major,GPA,EnrollmentDate
+1,Victoria Gill,30,Male,Business,3.38,2021-12-18
+2,Nicole Dillon,25,Female,Engineering,2.32,2024-04-25
+3,Janice Kim,21,Female,Engineering,3.88,2020-09-04
+4,Kelly Michael,26,Female,Physics,3.1,2022-07-14
+5,James Stewart,21,Female,Chemistry,3.83,2022-08-26
+6,Jeanette Davis,23,Male,Psychology,3.64,2022-01-23
+7,Christopher Cowan,20,Male,Biology,2.97,2020-02-19
+8,James Jones,26,Male,Biology,2.01,2020-08-13
+9,Sarah Howe,27,Male,Psychology,2.94,2022-04-09
+10,David Brown,21,Male,Chemistry,2.18,2020-09-13
+11,Kevin Sullivan,26,Female,Business,2.6,2023-05-01
+12,Emily Thompson,27,Female,History,3.08,2024-06-16
+13,Shelby Hernandez,26,Female,Computer Science,3.02,2022-09-06
+14,Tanya Brown,22,Female,Chemistry,2.47,2023-12-19
+15,Eric Henderson,27,Female,Psychology,2.9,2022-07-05
+16,Devon Rocha,21,Male,Mathematics,3.67,2022-11-09
+17,Tanya Frank,29,Male,History,2.47,2020-03-13
+18,Sean Sanchez,29,Male,Biology,3.78,2020-10-07
+19,Kimberly Rodriguez,30,Male,Mathematics,3.14,2020-03-30
+20,Andrea Russell,28,Male,Biology,2.39,2019-08-09
+21,Chelsea Powell,30,Male,English,3.4,2019-12-10
+22,Mary Macias,25,Male,Business,2.6,2020-03-12
+23,Andrew Perez,22,Male,History,3.08,2021-01-07
+24,Victor Norris,28,Female,Business,3.65,2023-09-10
+25,Jerome Oliver,25,Female,English,2.57,2020-02-05
+26,Tina Patrick,22,Female,Chemistry,2.15,2024-01-11
+27,Tyler Cochran,24,Male,Business,2.39,2022-05-29
+28,Christopher Scott,28,Female,Psychology,3.48,2020-08-30
+29,Christopher Chavez,28,Male,Biology,2.2,2022-08-09
+30,Chloe Garcia,23,Male,Computer Science,2.53,2022-01-15
+31,Jennifer Cisneros,29,Male,Physics,2.42,2019-12-27
+32,Jennifer Martin,29,Female,History,2.74,2019-12-09
+33,Javier Barry,26,Female,Biology,3.72,2021-06-26
+34,Cory Rice,22,Female,Psychology,3.05,2021-05-09
+35,Kenneth Ellis,22,Female,Physics,2.24,2023-07-05
+36,Michael Decker,19,Female,Mathematics,3.15,2019-09-20
+37,Janet Alvarado,28,Male,Mathematics,3.15,2024-04-23
+38,Tyler Saunders,30,Male,Computer Science,3.87,2021-07-20
+39,Brian Cohen,27,Male,History,3.36,2020-06-29
+40,Scott Brown,29,Male,History,3.2,2020-08-20
+41,Raymond Chapman,24,Female,Mathematics,3.19,2020-03-22
+42,Kirsten Perez,27,Female,Mathematics,2.34,2022-06-16
+43,Barbara Adams,27,Male,Psychology,3,2023-08-04
+44,Michael Avery,24,Female,Engineering,2.67,2022-05-20
+45,Lynn Mccullough,25,Female,Computer Science,2.35,2022-12-31
+46,Thomas Esparza,27,Male,Mathematics,3.68,2023-01-10
+47,Elizabeth Ramos,27,Male,Biology,3.44,2020-02-04
+48,Joel Miller,20,Male,History,2.52,2022-03-18
+49,Allison Collins,21,Male,Chemistry,3.98,2020-09-10
+50,Kevin Davis,23,Male,Biology,3.22,2023-07-09
+51,Julia Dean,22,Female,Psychology,2.09,2021-03-10
+52,Heidi Morgan,30,Male,Chemistry,2.63,2020-11-04
+53,Kathleen Chaney,21,Male,Physics,3.95,2022-03-06
+54,Christina Cummings,23,Female,Biology,3.33,2022-01-04
+55,Nathaniel Thomas,29,Female,Chemistry,2.09,2020-06-29
+56,Elizabeth Rich,26,Female,English,2.19,2021-11-15
+57,Patricia Walker,21,Male,Chemistry,3.02,2021-11-01
+58,Curtis Gonzalez,27,Male,History,3.85,2023-07-18
+59,Jennifer Flores,21,Male,Mathematics,2.95,2021-11-05
+60,Savannah Simon,26,Male,Biology,3.03,2021-03-17
+61,Bianca Mclean,24,Female,Physics,2.22,2019-12-25
+62,Samantha Silva,20,Female,English,3.33,2021-09-16
+63,Sean Perez,25,Female,Chemistry,3.24,2021-01-20
+64,Joann Paul,27,Female,English,3.58,2021-06-02
+65,Terrence Ferguson,27,Male,Mathematics,2.19,2023-09-05
+66,Jacob Jones,25,Female,Business,3.27,2023-04-09
+67,Hannah Harris DVM,25,Female,Psychology,2.14,2023-02-26
+68,Amy Gibson,27,Female,Engineering,2.89,2021-08-02
+69,Lori Warner,29,Male,Physics,2.41,2022-05-06
+70,Maria Malone,19,Female,Psychology,2.4,2023-07-25
+71,Laura Blackburn,29,Male,Mathematics,3.28,2019-09-07
+72,Don Flores,27,Female,Mathematics,2.66,2022-02-08
+73,Jose Cannon,24,Male,Engineering,2.05,2019-12-13
+74,Joshua Gonzalez,26,Male,Mathematics,2.1,2021-01-12
+75,Mrs. Christine Ross MD,25,Female,Physics,3.28,2023-08-12
+76,Jennifer Golden,26,Female,Engineering,3.21,2023-03-15
+77,James Hill,20,Male,Biology,3.89,2020-12-12
+78,Rodney Garrett,21,Female,History,2.01,2020-03-20
+79,Timothy Lynch,25,Female,English,2.23,2020-11-24
+80,Kimberly Stephens,28,Male,Chemistry,2.2,2021-06-07
+81,James Booth,24,Male,History,3.3,2024-03-02
+82,Christopher Cooper,27,Female,History,2.51,2020-04-21
+83,Brandy Garcia,24,Male,History,3.52,2022-11-10
+84,Andrea Rogers,26,Female,History,3.95,2022-01-25
+85,Bradley Brown,24,Male,Mathematics,3.23,2021-07-09
+86,Collin Ramos,20,Male,History,3.5,2020-08-29
+87,Carly Lopez,26,Male,Computer Science,3.85,2022-08-30
+88,Alan Warren,25,Female,Mathematics,3.65,2021-09-27
+89,Jacqueline Anderson,30,Male,Chemistry,2.48,2021-09-04
+90,Melanie Barnett,19,Male,Business,2.09,2020-09-17
+91,Tina Ford,23,Male,English,2.6,2023-03-14
+92,Ian Stone,23,Female,Mathematics,2.66,2021-10-31
+93,Taylor Davis,19,Male,Physics,2.76,2023-05-01
+94,Michael Hudson,21,Female,Computer Science,3.33,2022-09-02
+95,Darren Landry,18,Female,History,2.16,2021-06-30
+96,Patricia Campbell,26,Male,Mathematics,3.67,2022-05-13
+97,Kayla Ramsey,25,Male,Psychology,3.28,2020-09-30
+98,James Horn,30,Female,English,3.39,2023-01-28
+99,Chad Campbell,23,Female,Engineering,3.28,2022-10-20
+100,Brett Garcia,23,Female,History,3.1,2020-12-23
+101,Sheri Garcia,28,Female,Engineering,3.21,2023-10-13
+102,Julian Cummings,25,Male,Mathematics,3.95,2023-01-04
+103,Rhonda Murray,19,Male,Mathematics,2.81,2023-09-17
+104,Linda Dodson,26,Female,Psychology,3.69,2021-12-30
+105,Shannon Morales PhD,23,Female,Mathematics,3.12,2022-06-06
+106,Angelica Thompson,20,Female,English,3.22,2021-08-07
+107,Angela Floyd,23,Female,Psychology,3.42,2020-05-08
+108,April Willis,23,Female,Chemistry,2.41,2023-05-06
+109,Jeremy Joseph,24,Female,Business,3.84,2020-06-24
+110,Leslie Brown,29,Female,Mathematics,3.15,2021-03-28
+111,Nicholas Schroeder,29,Male,Chemistry,3.42,2019-09-23
+112,David Wang,20,Female,Business,3.93,2019-07-18
+113,Andre Mcdonald III,21,Male,Chemistry,2.29,2022-09-26
+114,Crystal Jones,23,Female,Psychology,2.74,2021-06-01
+115,Thomas Ayala,18,Male,Computer Science,2.47,2019-07-19
+116,Leon Zamora,24,Male,Psychology,2.15,2021-11-25
+117,Jennifer King,27,Male,Computer Science,2.26,2020-08-28
+118,Kelly Pollard,24,Male,Physics,2.41,2019-07-21
+119,Thomas Carter,29,Female,Chemistry,3.88,2021-10-18
+120,Nicole Sullivan,21,Female,Engineering,3.73,2024-02-20
+121,Michael Brown,25,Male,Computer Science,2.63,2022-07-20
+122,William Harris,30,Female,English,3.42,2019-07-27
+123,Ashley Collins,28,Female,Psychology,3.74,2020-07-21
+124,Lori Hawkins,27,Female,Chemistry,2.6,2022-05-19
+125,Nicholas Bell,21,Female,Mathematics,2.82,2020-02-25
+126,Kenneth Conner,22,Male,Biology,3.16,2019-11-02
+127,Mark Ramirez,19,Male,Engineering,2.18,2020-05-11
+128,Andrea Simon,27,Female,Computer Science,2.55,2023-02-13
+129,Kevin Wilson,22,Female,Engineering,3.27,2023-11-14
+130,Jose Gonzales,21,Male,History,2.16,2020-09-27
+131,Steven Cunningham,21,Female,Engineering,3.48,2019-12-22
+132,Daniel Thompson,19,Male,Engineering,2.45,2019-12-18
+133,Maria Keller,27,Female,Psychology,3.39,2023-03-17
+134,Michael Ray,19,Male,Business,2.05,2022-06-23
+135,Ms. Kaitlin Miller,25,Male,Chemistry,3.33,2022-09-20
+136,Allison Mcmillan,28,Female,Chemistry,2.09,2022-01-25
+137,Kristin Myers,27,Male,Engineering,3.36,2023-02-07
+138,Ryan Martinez,25,Male,Psychology,2.49,2019-12-28
+139,Kimberly Simpson,29,Female,Business,3.39,2021-07-15
+140,Thomas Boyle,21,Male,Engineering,3.38,2024-03-10
+141,Jeffrey Garcia,27,Male,Engineering,3.15,2023-01-13
+142,Michael Fletcher,25,Female,Physics,3.59,2020-02-05
+143,Emily Thomas,28,Female,English,2.79,2022-05-15
+144,Dustin Smith,29,Female,Biology,2.14,2019-08-02
+145,Mary Walker,24,Female,Computer Science,2.7,2024-01-31
+146,Abigail Case,22,Female,Computer Science,2.39,2021-06-07
+147,Jeffrey White,22,Female,Mathematics,2.85,2020-03-27
+148,Adrian Williams,26,Male,Computer Science,3.41,2022-05-17
+149,Toni Malone,20,Male,Computer Science,2.32,2020-10-13
+150,Jacqueline Hill,22,Female,Biology,3.89,2022-11-08
+151,Patricia Thomas,20,Male,Computer Science,2.67,2022-05-19
+152,Jill Herrera,24,Male,Chemistry,3.86,2022-07-12
+153,Rebekah Fletcher,30,Female,Business,2.21,2023-05-31
+154,Susan Palmer,29,Male,Psychology,3.22,2023-12-07
+155,Logan Whitehead,18,Female,Psychology,3.61,2024-01-15
+156,Michael Khan,27,Male,Computer Science,2.52,2020-07-28
+157,Matthew Moore,20,Female,English,3.18,2022-04-02
+158,Joseph Galloway,29,Male,Psychology,2.22,2020-02-01
+159,Matthew Olson,18,Male,Chemistry,2.75,2020-11-03
+160,Andrew Mercer,18,Male,English,3.52,2019-08-23
+161,Scott Hanna,27,Male,English,3.77,2020-08-04
+162,Christopher Stevens,24,Male,Engineering,2.31,2022-01-16
+163,Tina Wallace,28,Female,Biology,3.67,2023-10-30
+164,John King,18,Male,Physics,2.81,2023-04-04
+165,April Ballard,18,Female,Physics,3.69,2021-06-22
+166,Peter Franklin,20,Male,Mathematics,3.54,2019-07-07
+167,Matthew Lowe,18,Female,Psychology,3.98,2021-03-29
+168,Christy Rivas,28,Male,Chemistry,3.8,2019-12-20
+169,Anthony Weeks,29,Male,Computer Science,3.49,2020-04-06
+170,Christina Williams,20,Male,Engineering,2.97,2023-08-01
+171,Tammy Smith,22,Male,English,2.43,2022-05-15
+172,Rodney Michael,25,Female,Biology,2.76,2021-10-28
+173,Gary Garcia,27,Male,Mathematics,2.53,2023-01-23
+174,James Davis,21,Female,Business,3.32,2020-10-25
+175,Michelle Rojas,26,Male,Engineering,3.9,2021-08-29
+176,Felicia Tyler,20,Female,Mathematics,3.37,2019-12-30
+177,Heidi Taylor,19,Female,Physics,2.43,2020-10-13
+178,Douglas Miller,24,Female,Business,2.98,2022-11-21
+179,Amy Harrison,18,Female,History,3.95,2020-09-06
+180,Kevin Medina,19,Male,Chemistry,2.21,2021-04-15
+181,Kyle Duran,24,Female,Business,2.07,2020-12-19
+182,Ralph Moody,21,Male,Chemistry,3.87,2024-05-05
+183,Christopher Harris DDS,26,Male,Chemistry,3.45,2021-05-26
+184,Amber Guzman,20,Male,Physics,3.15,2022-04-07
+185,Melissa Smith,29,Male,Physics,2.33,2021-03-05
+186,William Blair,27,Male,Engineering,3.09,2023-09-24
+187,Teresa Wiggins,22,Male,Mathematics,2.46,2020-09-06
+188,Daniel Mccoy,28,Male,History,3.12,2022-09-12
+189,Patrick Cooper,28,Male,Computer Science,2.98,2019-07-25
+190,Jacob Carter,28,Male,History,2.53,2019-07-13
+191,Priscilla Mcguire,28,Female,Chemistry,3.09,2023-01-07
+192,Jake Martinez,28,Male,Engineering,3.04,2024-02-23
+193,Amber Johnson,19,Female,Engineering,2.94,2019-12-07
+194,Gina Brown,27,Female,Psychology,2.58,2020-10-16
+195,Laura Cuevas,25,Female,Physics,2.34,2022-12-03
+196,Kristen Acosta,29,Male,Physics,2.14,2023-05-01
+197,Taylor Smith,29,Female,Psychology,2.15,2022-06-13
+198,Kathy Guzman,25,Male,Computer Science,2.26,2022-03-14
+199,Mary Little,25,Female,Chemistry,2.35,2020-10-11
+200,Amanda Hensley,26,Male,Computer Science,3.2,2023-01-11
+201,Darrell Ramos,24,Male,English,3.49,2020-07-21
+202,Lynn Farmer,30,Male,Engineering,3.79,2022-04-21
+203,Christina Bell,23,Female,History,2.47,2021-07-15
+204,Jason Mills,30,Female,History,3.91,2024-06-23
+205,Melissa Chandler,18,Male,Physics,2.57,2024-04-15
+206,Theresa Hansen,20,Male,Psychology,2.74,2020-05-17
+207,Michael Jones,21,Male,English,2.88,2021-03-15
+208,Courtney Jensen,18,Male,Mathematics,3.15,2019-10-23
+209,Mr. Jesse Miller,30,Male,Chemistry,3.26,2019-07-02
+210,Andrew Mcconnell,24,Female,Physics,3.25,2023-09-29
+211,Johnathan Velasquez,22,Male,Physics,2.64,2022-09-12
+212,Keith Jenkins,30,Male,History,2.48,2022-03-03
+213,Dr. Todd Simpson,25,Male,Chemistry,3.23,2020-01-14
+214,Tina Thompson,24,Female,English,2.56,2019-09-15
+215,Kevin Nelson,23,Male,Computer Science,2,2023-01-23
+216,Tina Stuart,19,Male,History,3.14,2023-09-27
+217,William Gutierrez,20,Male,Physics,2.69,2022-01-31
+218,Billy Woods,24,Female,History,2.86,2024-06-05
+219,James Moore,25,Female,English,2.95,2022-03-02
+220,Jared Gilmore,23,Male,Biology,3.22,2024-05-22
+221,Kenneth Wolfe,24,Female,Psychology,2.07,2019-12-28
+222,Micheal Pruitt,20,Female,Engineering,2.73,2019-07-07
+223,Cory Thompson,26,Male,English,3.93,2022-02-06
+224,Jack Briggs,20,Female,English,3.19,2024-06-13
+225,Carrie White,30,Male,History,3.06,2023-03-24
+226,Francis Andersen,19,Male,History,3.14,2020-02-15
+227,Lisa Jones,21,Female,Biology,3.02,2023-01-02
+228,Stephen Hebert,19,Male,History,2.77,2020-07-12
+229,Philip Garcia,30,Female,Computer Science,2.66,2022-03-06
+230,Richard Thomas,22,Male,Biology,3.44,2021-11-20
+231,Laura Lee,22,Female,Business,3.8,2021-02-11
+232,Stephen Brooks,29,Male,Psychology,3.83,2023-07-09
+233,Emily Watkins,27,Female,Computer Science,2.45,2021-04-03
+234,Renee Hale,29,Female,Mathematics,2.93,2019-10-13
+235,Thomas Watkins,19,Male,English,3.12,2022-11-28
+236,Kelly Cook,26,Female,Psychology,3.09,2021-06-02
+237,Beverly Nolan,19,Female,Physics,3.1,2024-06-19
+238,David Mccoy,24,Male,Physics,2.44,2023-09-05
+239,Amanda Mcgee,18,Male,Engineering,3.22,2020-02-02
+240,Sean Hernandez,25,Female,Business,3.99,2020-08-26
+241,Tiffany Bradshaw,25,Male,Business,2.26,2022-02-14
+242,Robert Johnson,26,Female,Chemistry,3.41,2023-08-15
+243,Matthew Washington,24,Male,Business,3.93,2022-08-22
+244,Charles Brown,19,Female,Business,3.25,2021-11-18
+245,Daniel Pratt,27,Female,Chemistry,3.02,2023-11-26
+246,Brittany James,23,Female,Chemistry,2.94,2022-08-27
+247,Thomas Murphy,22,Female,Business,3.94,2020-07-22
+248,Paul Nelson,22,Female,Computer Science,2.89,2021-10-22
+249,Mrs. Susan Mata,29,Male,Chemistry,3.45,2020-05-01
+250,Crystal Juarez,19,Male,Physics,2.87,2020-10-12
+251,Kathryn Hudson,24,Female,Physics,3.06,2021-06-04
+252,Tonya Roberts,19,Female,Mathematics,3.19,2021-05-21
+253,Ashley West,22,Female,English,3.15,2023-08-13
+254,Michael Lozano,19,Male,Mathematics,3.41,2021-03-07
+255,Wesley Bradley,23,Male,Biology,3.93,2020-11-14
+256,Amy Good,20,Female,Mathematics,2.73,2023-03-27
+257,Sarah Davis,29,Male,History,2.31,2022-07-13
+258,James Smith,22,Female,Physics,3.12,2019-07-29
+259,Dawn Walls,26,Male,English,2.62,2021-06-05
+260,Christopher Foster,18,Female,Computer Science,2.11,2023-11-28
+261,Sarah Boyd,18,Male,Physics,2.79,2024-06-25
+262,Dale Baxter,29,Female,Engineering,3.33,2021-06-13
+263,Dominique Vega,23,Male,Mathematics,2.87,2023-05-14
+264,Richard Anderson,23,Female,Business,3.22,2019-09-10
+265,Mary Hughes,22,Male,Chemistry,2.06,2019-08-16
+266,Ronald Hawkins,18,Male,Physics,3.53,2020-07-12
+267,Anna Baker,27,Male,History,3.83,2022-08-08
+268,Jennifer Davis,30,Female,Chemistry,3.36,2021-04-23
+269,Logan Cruz,20,Female,Business,3.6,2023-06-17
+270,Jennifer Serrano,23,Male,English,2.3,2021-12-02
+271,Crystal Walters,25,Female,Physics,2.34,2022-03-09
+272,Christian Skinner,28,Female,Biology,2.87,2022-10-03
+273,Linda Robbins,26,Female,Psychology,2.73,2022-04-21
+274,Cody Allen,24,Male,Physics,3.57,2022-08-04
+275,Zachary Forbes,29,Female,Biology,2.43,2022-07-02
+276,Jeff Gonzalez,18,Female,Mathematics,3.79,2021-12-30
+277,Sarah Brandt,23,Male,Mathematics,2.48,2022-12-01
+278,Jesus Schneider,30,Male,Engineering,3.95,2024-03-31
+279,Mrs. Kimberly Cruz PhD,24,Male,Psychology,3.44,2023-05-12
+280,Taylor Ward,27,Male,Physics,2.95,2022-03-06
+281,Justin Guzman,26,Female,Business,3.22,2021-11-22
+282,Andrew Kelley,20,Male,Chemistry,2.91,2023-12-12
+283,Rodney Sullivan,26,Female,Business,3.98,2022-11-17
+284,Gary Beck,21,Male,Mathematics,3.76,2024-06-22
+285,Monica Hayes,19,Male,Physics,2.7,2023-10-10
+286,Chelsea Mcpherson,19,Female,Biology,3.36,2021-06-05
+287,Nathaniel Bowen,22,Male,Business,3.39,2021-09-05
+288,Stacy Moore,18,Female,Computer Science,2.39,2023-03-27
+289,Angela Newman,29,Male,Physics,2.39,2021-02-09
+290,Michelle Cooper,24,Female,Psychology,2.1,2020-05-06
+291,Leslie Brady,20,Male,Engineering,2.2,2019-09-08
+292,Olivia Sanchez MD,23,Female,Biology,3.72,2022-05-31
+293,Jonathan Higgins,19,Female,Psychology,3.36,2024-03-19
+294,Betty Oconnor,25,Male,Business,3.18,2020-07-29
+295,Lauren Herrera,30,Female,English,3.75,2020-07-11
+296,Timothy Gray,23,Male,English,3.29,2022-03-17
+297,Ian Lutz,18,Female,English,3.63,2020-05-13
+298,Michele Evans,20,Female,English,2.2,2023-10-24
+299,Jose Patel,29,Male,Physics,3.22,2024-03-11
+300,Jeffery Ross,27,Female,English,3.96,2023-03-26
+301,Brian Ortega,28,Male,Business,3.05,2019-07-21
+302,Jasmine Tate,29,Male,Engineering,3.29,2019-10-07
+303,Jeff Young,27,Male,History,3.14,2020-11-24
+304,Jerry Walker,23,Male,Business,2.79,2020-06-29
+305,Diana Nelson,29,Female,Business,2.81,2023-06-07
+306,Michael Hernandez,23,Male,Biology,2.28,2020-11-16
+307,Cynthia Martin,24,Male,History,3.5,2021-12-22
+308,Gary Rivas,29,Female,History,3.74,2020-06-25
+309,Laura Fuller,28,Male,Physics,3.4,2023-11-11
+310,Vincent Henry,26,Male,Mathematics,2.72,2021-01-18
+311,Mike Jackson,25,Male,History,3.4,2023-04-27
+312,Bradley Odom,29,Female,Physics,2.36,2022-08-30
+313,Morgan Martin,28,Male,History,3.66,2021-08-08
+314,Erin Lewis,23,Male,Engineering,3.98,2023-09-02
+315,Emily Kennedy,29,Female,Computer Science,3.73,2023-06-16
+316,Lisa Yoder,22,Female,Physics,2.05,2021-04-29
+317,Amanda Reyes,22,Female,Engineering,3.34,2022-09-15
+318,Kristina Flynn,24,Female,Mathematics,3.43,2020-12-26
+319,Lauren Prince,28,Male,Chemistry,2.83,2019-12-30
+320,Doris Clark,28,Female,Chemistry,3.36,2023-02-20
+321,Kaylee Coffey,24,Male,English,2.95,2021-06-03
+322,Victoria Flowers,25,Male,Biology,2.51,2022-08-02
+323,Gerald Berger,23,Male,Engineering,3.26,2024-06-04
+324,Andrew Tyler,27,Female,Business,2.9,2020-12-13
+325,James Middleton,20,Male,Computer Science,3.22,2024-05-06
+326,Toni Kirk,22,Male,English,2.95,2024-06-01
+327,Marcus Barton,29,Male,Physics,3.5,2024-06-10
+328,Rickey Richmond,20,Female,Mathematics,3.22,2023-05-06
+329,Jonathan Bailey,27,Female,Computer Science,2.37,2023-02-10
+330,Meghan Scott,21,Male,Chemistry,3.52,2023-06-23
+331,Bradley Hall,19,Male,Chemistry,3.02,2023-01-17
+332,Stefanie Harvey,30,Female,Chemistry,3.33,2022-11-16
+333,Robert Murphy,20,Male,Chemistry,2.66,2021-08-11
+334,Andrew Smith,29,Male,Psychology,3.76,2020-01-30
+335,Stephen Brown,28,Female,Business,2.51,2023-03-12
+336,Michael Ruiz,20,Male,Biology,2.49,2023-05-17
+337,Timothy Zhang,30,Female,Engineering,3.92,2023-12-02
+338,Nicholas Robinson,19,Male,Physics,2.7,2021-02-04
+339,Brittany Lopez,30,Male,Computer Science,2.09,2020-02-12
+340,Kathy Armstrong,22,Male,Business,3.83,2024-06-26
+341,Cesar Butler,25,Male,Engineering,2.15,2020-10-22
+342,Daniel Johnson,30,Male,English,3.76,2023-03-05
+343,Craig Wright,30,Male,Computer Science,2.98,2023-11-14
+344,Brianna Kerr,28,Male,Engineering,3.44,2020-09-07
+345,Melanie Mitchell,30,Male,Engineering,2.17,2024-03-31
+346,Melissa Mcgrath,28,Male,Computer Science,2.46,2021-06-08
+347,Cody Garcia,19,Female,English,2.28,2022-05-15
+348,Shawn Wallace,23,Female,Computer Science,2.89,2020-05-25
+349,Terry Tucker,30,Male,Engineering,2.62,2023-01-25
+350,Anthony Campbell,24,Female,Mathematics,2.14,2022-10-21
+351,John Marshall,22,Male,Engineering,3.17,2023-02-25
+352,Mitchell Schwartz,18,Male,Mathematics,2.93,2021-07-10
+353,Melissa Garcia,18,Male,History,3,2020-05-26
+354,Cynthia Walker,24,Female,English,3.79,2023-05-27
+355,George Scott,18,Female,Physics,3.7,2022-05-18
+356,Jennifer Russell,26,Female,Physics,2.78,2020-02-10
+357,Regina Tanner,25,Female,History,2.35,2021-10-13
+358,Brandi Johnson,30,Female,History,3.01,2022-03-22
+359,Robert Munoz,22,Female,Engineering,3.27,2021-09-04
+360,David Foster,26,Male,Psychology,2.45,2021-07-06
+361,Shelby Lopez,20,Male,Chemistry,3.01,2024-02-08
+362,Julia Barry,23,Female,Biology,2.82,2024-01-15
+363,Kenneth Preston,24,Female,Mathematics,3.21,2019-07-28
+364,Samantha Herrera,24,Male,Physics,2.53,2021-12-15
+365,Evan Jones,20,Male,History,2,2019-07-25
+366,Carolyn Patel,22,Male,Engineering,3.39,2019-09-12
+367,Travis Fields,30,Female,History,2.68,2020-12-18
+368,Anthony Navarro,18,Female,Business,2.51,2023-04-25
+369,Joshua Walker,24,Female,Business,2.66,2023-10-04
+370,Albert Price,19,Female,Biology,2.31,2021-08-18
+371,Jessica Sharp,26,Female,History,3.5,2023-06-02
+372,Susan Galloway,21,Female,History,3.26,2023-10-08
+373,Micheal Ramirez,25,Male,Biology,3.36,2022-07-08
+374,Heather Daniels,19,Male,Psychology,3.32,2020-07-29
+375,John Kennedy,27,Male,Mathematics,2.63,2019-08-03
+376,Tiffany Wells,28,Male,Biology,3.05,2019-07-20
+377,Tammy Snyder,23,Male,History,3.78,2022-06-25
+378,Kenneth Garcia,29,Male,Physics,2.36,2020-04-20
+379,Mary Barber,24,Female,Biology,3.21,2023-06-09
+380,Bailey Dawson,26,Female,Chemistry,2.69,2021-10-31
+381,Brittany Kennedy,21,Male,Biology,2.95,2021-04-07
+382,Nicholas Schmidt,22,Male,Biology,2.7,2022-02-22
+383,Timothy Cook,23,Female,History,3.54,2021-01-18
+384,Gina Lynn,23,Male,Biology,2.12,2023-05-16
+385,Keith Guerrero,18,Male,History,2.42,2022-11-21
+386,Cole Garcia,18,Male,Chemistry,2.22,2022-03-31
+387,Jonathan Davis,27,Female,Chemistry,2.9,2022-04-21
+388,Kristina Rivera,19,Female,History,2.37,2022-02-01
+389,Dr. Arthur Valdez,26,Male,Mathematics,2.64,2022-06-21
+390,Luis Garcia,30,Female,Computer Science,2.09,2022-08-14
+391,Kristopher Gonzales,19,Male,Business,2.7,2021-12-12
+392,Deborah Fitzpatrick,23,Male,Biology,2.77,2020-06-17
+393,Rebecca Horne MD,21,Male,Computer Science,3.45,2020-10-08
+394,Amanda James,29,Male,Chemistry,3.14,2021-01-25
+395,Daniel Patton,21,Male,Engineering,2.7,2020-12-27
+396,Lindsay Mills,28,Female,Computer Science,2.82,2024-05-04
+397,Travis Moore,19,Female,Computer Science,3.77,2022-08-24
+398,Juan Smith,22,Male,Engineering,2.78,2022-02-27
+399,Ryan Castillo,20,Male,Chemistry,3.1,2022-05-20
+400,Tina Malone,30,Male,Computer Science,3.44,2020-05-02
+401,Calvin Collins,25,Female,History,3.88,2023-12-18
+402,Rebecca Baker,24,Male,Psychology,3.36,2023-06-19
+403,Henry Johnson,26,Male,Biology,3.19,2021-09-06
+404,Steven Wise,19,Female,History,2.96,2021-06-06
+405,Bianca Moore,25,Female,History,3.78,2022-04-11
+406,William Bishop,24,Female,Physics,3.1,2021-08-29
+407,Paula Russell,30,Male,Physics,3.28,2024-03-21
+408,Nancy Mueller,27,Male,History,2.36,2020-02-26
+409,Richard Blackburn,23,Female,English,2.55,2022-01-18
+410,Brenda Wells,21,Female,Psychology,3.31,2023-07-28
+411,Cheryl Roberts,27,Female,Biology,3.45,2020-06-06
+412,Michelle Davis,25,Female,Chemistry,2.09,2023-09-22
+413,Christopher Oconnell,27,Female,Mathematics,3.51,2024-04-22
+414,Ryan Hamilton,26,Male,Psychology,3.83,2021-12-05
+415,Christopher Alvarez,21,Male,History,2.27,2020-02-17
+416,Cameron Malone,23,Female,Business,3.13,2024-06-07
+417,Michael Krause PhD,21,Male,English,3.67,2022-07-17
+418,Kelly Zamora,21,Female,English,3.27,2020-07-07
+419,Jillian Rodriguez,27,Female,Psychology,2.47,2022-11-22
+420,Matthew Morales,20,Male,Biology,3.3,2021-02-23
+421,Stephanie Kennedy,30,Female,Engineering,2.85,2020-06-28
+422,Connie Fisher,30,Female,Mathematics,3.51,2021-11-24
+423,Alexis Freeman,26,Male,English,2.76,2021-05-19
+424,Nancy Andrews,21,Female,Mathematics,3.82,2020-02-05
+425,Louis Thompson,30,Female,Psychology,3.41,2019-09-08
+426,Michelle Morris,18,Male,Engineering,3.31,2023-05-11
+427,Matthew Monroe,25,Female,Mathematics,2.06,2020-09-30
+428,Kimberly Jennings,23,Male,Engineering,2.43,2022-10-03
+429,Courtney Martinez,24,Female,History,2.2,2020-05-23
+430,Veronica Bernard,22,Male,Chemistry,3.52,2023-07-12
+431,Vickie Miller,24,Female,Engineering,3.18,2023-12-18
+432,James Sims,25,Female,Engineering,3.08,2019-10-17
+433,Tiffany Rice,30,Female,History,2.87,2024-02-12
+434,Daniel Johnson,21,Male,Biology,3.87,2021-04-08
+435,Stephanie Patel,30,Male,Chemistry,3.53,2022-04-25
+436,Barry Walls,21,Male,Psychology,2.7,2019-10-29
+437,Audrey Aguilar,18,Male,Business,2.86,2024-06-22
+438,Jennifer Rodriguez,22,Male,History,2.28,2019-09-24
+439,Angela Cook,26,Female,Biology,2.67,2023-08-26
+440,Douglas Barajas,30,Male,Mathematics,2.21,2021-09-23
+441,Linda Cruz,23,Male,Physics,2.83,2021-12-21
+442,Dr. Julian Rogers V,18,Male,Biology,3.8,2021-03-05
+443,Kathryn Green,20,Male,Biology,2.82,2019-07-25
+444,Holly Gardner,21,Female,Biology,2.9,2021-03-21
+445,Yolanda Singh,23,Male,Engineering,2.52,2020-03-27
+446,Eric Goodwin,25,Male,Chemistry,2.4,2023-01-05
+447,David Andrews,19,Male,English,2.01,2022-04-21
+448,Edwin Spencer,28,Male,Business,2.27,2024-06-23
+449,Amy Santos,30,Female,Physics,3.76,2020-10-13
+450,John Newman,26,Female,Psychology,2.03,2021-10-17
+451,Sarah Moore,30,Female,Computer Science,2.96,2021-09-17
+452,Ian Taylor,28,Male,Physics,3.77,2024-02-29
+453,Mark Delacruz,23,Male,Computer Science,3.5,2021-01-26
+454,Melissa Avila,27,Male,Psychology,2.26,2023-04-26
+455,Patricia Miller,29,Female,Business,3.48,2021-06-11
+456,Christy Cruz,26,Male,History,3.04,2022-10-02
+457,Julie Mejia,29,Female,History,3.01,2021-08-01
+458,Frances Davis,26,Female,Biology,3.78,2023-11-06
+459,Stacy Thompson,30,Female,Engineering,2.3,2020-10-15
+460,Kevin Norman,25,Male,Computer Science,3.32,2020-09-22
+461,Angelica Berg,25,Male,Psychology,3.74,2024-05-21
+462,Scott Reynolds,29,Female,English,2.53,2023-12-24
+463,Christine Luna,28,Female,Business,3.61,2021-02-19
+464,Katrina Wood,22,Male,English,3.48,2023-09-30
+465,Jonathan Kelley,26,Female,Chemistry,3.18,2024-03-11
+466,Michael Gonzalez,20,Female,Psychology,2.31,2022-08-21
+467,Erin Hayden,29,Male,History,3.27,2020-07-15
+468,Cristina Rangel,23,Male,Biology,3.58,2022-09-04
+469,Lisa Greene,28,Female,Mathematics,2.58,2023-09-30
+470,Kevin Mckee,23,Female,History,2.14,2019-09-20
+471,Michael Williams,24,Male,Chemistry,3.04,2023-11-13
+472,Anthony Browning,24,Male,Computer Science,3.75,2020-12-02
+473,Anthony Wells,19,Female,Chemistry,3.89,2022-07-16
+474,Kathleen Sherman,28,Female,Engineering,2.05,2022-01-25
+475,William Sherman,27,Female,Mathematics,2.35,2020-03-06
+476,Patrick Fitzgerald,29,Male,Chemistry,2.66,2023-12-07
+477,Anna Phillips,27,Male,Engineering,3.55,2019-09-18
+478,Justin Gibson,21,Female,Computer Science,2.28,2019-08-29
+479,Jason Scott,25,Male,Business,2.55,2022-10-09
+480,Anthony Pope,24,Male,Biology,2.21,2021-08-20
+481,Blake Martin,27,Male,Engineering,2.22,2022-03-12
+482,Erica Price,30,Male,History,4,2020-06-02
+483,Jack Marsh,29,Female,Business,2.1,2022-07-23
+484,Raymond Garrett,29,Female,Engineering,3.59,2024-04-22
+485,Rebecca Gordon,24,Male,Engineering,3.46,2020-03-30
+486,Karen Duran,18,Female,Biology,2.63,2022-05-03
+487,Karen Anderson DDS,24,Female,Chemistry,3.33,2023-10-13
+488,Megan Levy,22,Female,Psychology,2.84,2022-12-16
+489,Elizabeth Jones,21,Female,Business,2.62,2020-12-23
+490,Elizabeth Scott,29,Female,English,2.88,2019-07-08
+491,Michael Blair,22,Male,Physics,3.77,2020-06-20
+492,James Howard,26,Female,Mathematics,2.41,2022-06-06
+493,Michael Vasquez,27,Female,Psychology,2.83,2021-10-20
+494,Catherine Baker,27,Male,Mathematics,3.63,2022-11-30
+495,Donna Smith,30,Female,Mathematics,2.09,2022-08-30
+496,Jacqueline Lee,27,Female,Mathematics,3.05,2022-08-06
+497,Kristen Mendez,20,Male,Psychology,2.08,2022-10-21
+498,Melissa Thornton DVM,23,Female,Mathematics,2.18,2021-05-04
+499,Shawn Williams,23,Male,Computer Science,3.8,2024-06-12
+500,Claudia Hansen,18,Male,Computer Science,2.04,2022-07-16
+501,Laurie Carter,18,Female,Physics,3.53,2019-08-13
+502,Robert Thomas,20,Male,Computer Science,2.69,2024-04-19
+503,Brandon Perez,19,Male,Chemistry,3.65,2019-09-14
+504,Mike Gonzalez,20,Female,Biology,3.58,2024-06-24
+505,James Larson,21,Female,Physics,2.28,2020-08-25
+506,Tamara Brown,30,Female,Biology,3.55,2022-02-11
+507,Ashley Lane,26,Male,Physics,3.63,2020-10-18
+508,Anna Meyer,24,Female,Psychology,3.91,2023-10-21
+509,Alejandro Washington,30,Male,Biology,3.03,2021-01-20
+510,Michael Sanders,20,Male,Chemistry,3.23,2020-03-06
+511,Sharon Martinez,23,Male,Engineering,3.03,2022-07-03
+512,Brady Contreras DDS,29,Male,Mathematics,3.8,2023-09-17
+513,Joshua Leblanc,19,Female,Computer Science,2.68,2021-09-19
+514,Teresa Dillon,28,Male,History,2.82,2024-01-23
+515,Juan Smith,29,Male,Physics,2.66,2019-10-21
+516,Jessica Salazar,19,Female,Computer Science,2.27,2024-02-26
+517,Eric Jackson,18,Male,English,3.13,2024-06-06
+518,Duane Williams,20,Female,Mathematics,3.57,2021-12-09
+519,Jessica Hunter,25,Female,Chemistry,3.46,2023-11-30
+520,Clifford Haynes,24,Female,Business,3.41,2023-07-17
+521,Kenneth Shaw,27,Male,Biology,3.73,2019-11-30
+522,Bonnie Strong,24,Male,English,3.29,2020-01-16
+523,John Thomas,30,Female,Mathematics,3.28,2023-02-28
+524,Christina Ray,29,Female,Computer Science,2.25,2023-03-29
+525,Ricardo Hampton,27,Female,Computer Science,3.35,2021-06-09
+526,Lindsey Cooke,21,Female,Physics,2.99,2022-02-23
+527,Katherine Gay,24,Female,Biology,3.84,2019-08-03
+528,Michael Rogers,19,Male,Biology,3.57,2021-09-06
+529,Jessica Collins,22,Male,Psychology,3.97,2021-03-20
+530,Joshua Gamble,23,Male,Physics,2.47,2023-04-24
+531,John Delgado,23,Male,Physics,2.37,2023-02-04
+532,Ruben Smith,24,Female,Chemistry,3.19,2021-08-04
+533,Nathaniel Sandoval,27,Female,Physics,3.1,2023-07-19
+534,Ashley Chambers,23,Male,English,2.47,2023-08-22
+535,Arthur Booth,25,Male,Mathematics,3.78,2019-11-24
+536,Shawn Lang,27,Male,Physics,3.65,2021-03-21
+537,Laurie Page,30,Female,Biology,2.81,2023-10-31
+538,Brandon Aguirre,24,Female,Psychology,2.03,2020-02-01
+539,Mark Moore,21,Female,English,3.68,2023-05-12
+540,Mary Barber,30,Female,Engineering,2.09,2022-08-30
+541,Robert Gomez,26,Female,Engineering,2.55,2020-12-19
+542,Chris Patel,21,Female,History,2.55,2022-04-12
+543,Sheri Bailey,18,Male,History,3.54,2024-01-02
+544,Richard Bridges,26,Female,Mathematics,2.07,2023-12-09
+545,Peggy Nicholson,26,Female,Psychology,3.63,2021-11-23
+546,Lisa Davis,28,Male,Psychology,2.11,2020-01-23
+547,Roberto Riley,22,Male,Engineering,2.37,2024-02-13
+548,Ashley Turner,26,Male,Chemistry,2.45,2024-05-12
+549,Amy Mason,20,Male,Mathematics,2.39,2023-09-12
+550,Amy Barnett,28,Female,Chemistry,2.92,2020-01-09
+551,Heidi Wright,29,Male,Physics,3.64,2022-12-11
+552,Daniel Decker,27,Male,History,3.42,2024-04-15
+553,James Shah,19,Female,Engineering,2.54,2022-05-18
+554,Cheryl Escobar,21,Male,Chemistry,3.95,2023-09-22
+555,Lisa Brewer,25,Female,English,3.62,2020-06-27
+556,Carol George,28,Male,Biology,3.13,2019-09-29
+557,Veronica Harris,22,Female,Biology,3.92,2023-08-01
+558,Maria Webb,19,Male,Computer Science,2.7,2022-03-06
+559,Mr. Daniel Graham MD,23,Female,Computer Science,3.35,2019-08-02
+560,Dr. Matthew Whitehead,30,Male,Business,3.5,2024-02-24
+561,Andrea King,23,Male,English,2.26,2022-10-12
+562,Dominique Harris,24,Female,Computer Science,3.73,2024-06-15
+563,Angela Sullivan,20,Female,Engineering,3.24,2022-02-25
+564,Kevin Ware,24,Male,Business,2.32,2022-07-05
+565,Colleen Martin,19,Female,Mathematics,2.87,2024-03-28
+566,Emily Rowe,20,Male,Chemistry,3.99,2022-08-31
+567,Leslie Keith,18,Male,History,3.32,2022-07-28
+568,Christopher Wright,18,Female,English,2.66,2023-02-02
+569,Corey Chavez,24,Female,Biology,2.08,2020-11-14
+570,Sandra Rivera,23,Female,Mathematics,2.19,2023-03-23
+571,Marcus Perkins,26,Male,Computer Science,3.44,2020-11-30
+572,Mario Bullock,27,Male,Biology,2.91,2020-07-02
+573,Jennifer Ortega,24,Female,Mathematics,3.16,2021-06-29
+574,Michael Clark,25,Male,Psychology,3.08,2022-08-16
+575,Tara Lee,27,Male,Psychology,2.1,2020-02-13
+576,Nichole Smith,25,Male,Physics,2.37,2022-06-30
+577,Mr. Christian Mercado,23,Male,History,3.93,2022-01-10
+578,Ricky Hale,25,Female,History,3.95,2023-02-06
+579,Brian Thompson,24,Female,History,3.1,2022-04-12
+580,Matthew Adams,26,Female,Engineering,3.51,2020-06-25
+581,Roger Maddox,29,Male,Computer Science,3.74,2023-03-16
+582,Thomas Burgess,24,Male,Psychology,2.72,2020-05-31
+583,Ryan Chung,22,Male,Psychology,2.48,2020-11-08
+584,Christopher Allen,30,Male,Psychology,2.03,2023-08-07
+585,Steven Bass,21,Male,Business,3.45,2021-09-12
+586,Timothy Vega,30,Female,English,2.79,2020-03-03
+587,Christopher Waller,29,Female,Engineering,2.39,2024-01-07
+588,Aaron Fernandez,21,Male,English,2.79,2020-02-27
+589,Margaret Lam,21,Male,English,3.52,2024-06-25
+590,Jonathan Martinez,18,Male,Computer Science,2.88,2022-08-25
+591,Dennis Bates,21,Female,History,3.82,2024-03-30
+592,Billy Carpenter,23,Male,English,2.98,2021-05-14
+593,Terry Edwards,27,Female,Business,2.81,2022-07-20
+594,Gail Mitchell,22,Male,Biology,2.6,2024-05-08
+595,Anthony Melton,19,Female,History,3.22,2020-03-22
+596,Monica Washington,22,Female,Computer Science,3.77,2020-08-10
+597,Crystal Smith,25,Female,Biology,2.94,2022-11-09
+598,Travis Burnett,22,Male,Psychology,2.74,2023-06-19
+599,Maurice Holt,25,Male,Engineering,3.59,2021-06-06
+600,Colleen Sawyer,18,Female,History,2.33,2021-11-23
+601,Mary Gallagher,25,Female,Engineering,3.7,2023-04-09
+602,Jeremy Morgan,19,Male,Business,2.4,2022-10-25
+603,Tracy Ford,22,Male,Mathematics,2.33,2021-10-11
+604,Rachael Morris,23,Female,Computer Science,3.37,2023-08-19
+605,Aaron Scott,19,Female,Chemistry,2.88,2020-01-16
+606,Victoria Davis,21,Male,Psychology,2.32,2022-06-18
+607,Jeremy Adams,25,Male,History,2.54,2023-12-15
+608,Mrs. Rita Walker,22,Male,Business,3.68,2021-06-20
+609,Nicholas Harris,27,Male,English,2.17,2023-03-25
+610,Autumn Watts,19,Male,Chemistry,3.8,2022-03-22
+611,John White,25,Female,Chemistry,2.37,2022-10-09
+612,Daniel Hernandez,25,Male,Psychology,3.99,2020-01-22
+613,Jamie Johnson,19,Male,Chemistry,2.41,2023-12-17
+614,Melanie Finley,30,Male,Chemistry,3.16,2020-10-29
+615,Cody Cox,19,Female,Business,3.39,2020-10-19
+616,Roy Ruiz,25,Female,History,2.81,2024-05-29
+617,Mariah Munoz,28,Female,English,3.32,2023-04-28
+618,Sandra Reyes,27,Female,Engineering,3.77,2023-02-15
+619,Christina Campbell,30,Male,Biology,2.99,2024-03-26
+620,Nancy Edwards,25,Male,Computer Science,2.41,2020-12-11
+621,Robert Mccoy,30,Female,Physics,3.21,2022-07-01
+622,Christopher Griffin Jr.,21,Female,Business,2.52,2024-02-16
+623,Alicia Mathis,26,Female,History,2.64,2020-05-19
+624,Amber Garza,23,Female,English,3.6,2022-10-25
+625,Danielle Pittman DDS,29,Male,Psychology,3.44,2021-07-01
+626,Kristen Foley,23,Male,Business,3.56,2022-10-10
+627,William Foster,19,Female,Business,3.34,2021-06-20
+628,Amanda Hale,20,Female,Psychology,2.46,2022-06-25
+629,Gregory Hughes,29,Female,English,3.2,2023-01-28
+630,Robert Lane,25,Male,Physics,2.35,2020-11-30
+631,Elizabeth Evans,30,Female,Mathematics,2.96,2022-01-15
+632,Dr. Jennifer Mason MD,27,Male,History,2.42,2022-09-23
+633,Maria Mcmahon,28,Female,Psychology,2.75,2024-05-22
+634,Julie Jones,24,Female,English,3.55,2020-02-27
+635,Terri Guzman,25,Female,Psychology,3,2022-09-29
+636,Daniel Harmon,28,Female,Computer Science,2.74,2022-05-10
+637,Chelsea Washington,30,Female,Biology,3.79,2021-11-29
+638,Eric Frederick,24,Male,Engineering,3,2021-06-05
+639,Renee Ryan DVM,26,Male,Engineering,2.43,2022-08-16
+640,Daniel Mcintyre,21,Female,Biology,3.39,2021-08-23
+641,Eric Schneider,25,Female,English,3.17,2019-12-27
+642,Kim Mason,24,Female,History,3.25,2024-06-28
+643,Michael Santiago,30,Male,Psychology,3.6,2020-08-16
+644,Alexis Foster,25,Male,Computer Science,2.02,2021-12-23
+645,Katherine Jones,21,Female,Chemistry,2.13,2022-01-04
+646,Cassandra Ward,20,Male,Chemistry,3.55,2023-09-10
+647,Mr. Christopher Bell,27,Female,Chemistry,3.56,2022-11-28
+648,Rose Hunter,24,Male,Physics,3.35,2020-10-15
+649,Paul Sanchez,28,Female,History,2.54,2020-10-08
+650,Gregory Edwards,27,Female,Business,2.9,2021-07-13
+651,Mark Sullivan,21,Female,Chemistry,2.09,2021-08-10
+652,Emily Gray,30,Male,Computer Science,2.58,2020-02-28
+653,Amanda Green,22,Female,Computer Science,2.38,2021-09-12
+654,Laurie Johnson,24,Female,Chemistry,3.7,2019-12-23
+655,Susan Brown,24,Male,English,3.69,2020-10-18
+656,Kyle Lloyd,19,Female,Business,3.66,2022-04-15
+657,Geoffrey Decker,21,Female,Chemistry,2.74,2023-11-24
+658,Eric Tucker,19,Female,Business,3.32,2020-04-16
+659,Angela Hamilton,28,Male,Business,3.56,2020-01-23
+660,Michelle Rhodes,30,Male,Biology,2.96,2023-01-29
+661,Elizabeth Booth,30,Male,Physics,2.54,2020-09-17
+662,Susan Sanford,23,Female,Engineering,2.16,2019-07-03
+663,Daniel Ford,30,Male,Business,2.13,2019-11-28
+664,Melinda Jackson,28,Female,Business,3.22,2021-05-02
+665,Theresa May,20,Female,Computer Science,3.35,2023-02-02
+666,Robert Richardson,29,Male,Engineering,2.36,2023-08-23
+667,Anthony Hendricks,21,Male,Physics,2.69,2024-05-30
+668,Ashley Bailey,30,Male,Computer Science,3.12,2022-02-21
+669,Douglas Spencer,23,Female,Business,2.37,2022-02-04
+670,Jaclyn Harrison,25,Male,Business,3.55,2022-06-21
+671,Charles Stewart,29,Female,English,2.51,2023-12-23
+672,Andrew Miller,18,Male,History,2.49,2023-11-02
+673,Lisa Henderson,26,Female,English,3.76,2021-11-12
+674,Benjamin Landry,21,Male,Chemistry,2.03,2020-06-30
+675,Cindy Edwards,25,Male,Business,3.79,2021-10-19
+676,Shelby Mathews,26,Male,Physics,2.9,2021-05-08
+677,Jay Stephens,27,Male,Psychology,2.04,2022-08-07
+678,Lisa Carter,23,Male,Psychology,2.52,2023-08-04
+679,Teresa Griffin,29,Female,Biology,2.46,2020-07-05
+680,Kenneth Perkins,25,Male,Chemistry,2.21,2021-07-07
+681,Bradley White,28,Female,Biology,3.22,2022-01-11
+682,Julie Garcia,24,Male,Physics,2.3,2022-12-25
+683,Mr. Steven Raymond,26,Female,Biology,3.57,2020-08-08
+684,Dr. Zachary Costa,28,Female,Biology,2.03,2022-12-22
+685,Katherine Rodriguez,18,Male,Chemistry,2.18,2020-06-06
+686,Mrs. Ruth Waters,21,Male,History,2.45,2023-01-07
+687,Nathaniel Higgins,28,Male,Business,2.41,2024-01-03
+688,Julie Wright,29,Male,Physics,3.69,2023-08-04
+689,Nathan Rhodes,30,Male,Biology,3.62,2022-06-24
+690,George Barnett,22,Male,English,3.96,2022-09-11
+691,Katherine Elliott,24,Male,Chemistry,2.45,2021-11-29
+692,Sharon Webster,29,Female,Business,3.09,2022-03-24
+693,Daniel Williams,29,Female,Business,3.53,2020-01-22
+694,Heather Stewart,26,Male,Computer Science,3.07,2021-04-14
+695,Lindsey Landry,24,Male,Chemistry,2.31,2020-08-09
+696,Kaitlin Stewart,22,Male,Physics,3.9,2021-03-27
+697,Alexis Morrison,24,Female,Psychology,2.61,2019-11-11
+698,Karen Mclaughlin,26,Male,Engineering,2.48,2023-02-15
+699,Doris Martin,25,Male,English,2.92,2023-08-05
+700,Sara Smith,20,Male,Biology,2.16,2020-08-29
+701,Elizabeth Pham,23,Female,Psychology,3.98,2019-11-13
+702,Brianna Sharp,24,Male,History,2.08,2022-01-28
+703,Debbie Munoz,21,Female,English,2.57,2024-03-11
+704,Michael Nelson,18,Female,Physics,3.5,2021-02-20
+705,Nicholas Joseph,19,Male,Mathematics,2.76,2019-12-22
+706,Jeremiah Green,30,Female,Engineering,2.15,2022-11-01
+707,Morgan Neal,23,Male,Mathematics,2.48,2023-10-06
+708,Carla Lucas,26,Female,History,2.15,2020-11-28
+709,Brian Hines,19,Female,Engineering,2.26,2021-01-23
+710,Gabrielle Rodriguez,24,Male,English,3.6,2019-11-16
+711,Andrew Lee,20,Male,History,2.61,2019-12-16
+712,Matthew Thompson,30,Male,Business,2.71,2023-04-05
+713,Walter Garcia,26,Female,Business,2.94,2020-05-17
+714,Nancy West,30,Male,Psychology,3.84,2023-04-13
+715,Thomas Singleton,21,Male,Engineering,3.38,2021-09-25
+716,Shelby Harvey,29,Female,Chemistry,3.01,2022-07-08
+717,Kenneth Harvey,26,Female,Biology,2.43,2022-06-23
+718,Tina Lindsey,24,Female,English,3.76,2020-07-04
+719,Marcia Carpenter,28,Female,English,2.36,2023-10-11
+720,Richard Pierce,23,Male,English,3.87,2022-09-14
+721,Nichole Bean,28,Female,Computer Science,2.86,2021-05-09
+722,Ryan Kelly,28,Female,Physics,2.29,2020-10-12
+723,Shari Palmer,24,Male,Biology,3.05,2023-11-18
+724,Lisa Chan,20,Female,Biology,3.86,2022-10-28
+725,Chad Rodriguez,29,Female,Chemistry,2.2,2022-04-05
+726,Jennifer Brown,30,Female,Psychology,3.97,2023-05-08
+727,Troy Duran,29,Female,Mathematics,3.81,2024-03-09
+728,Megan Jackson,23,Female,Mathematics,2.56,2021-11-30
+729,Laura Owen,24,Female,Psychology,3.08,2021-09-06
+730,Christopher Mason,19,Female,Biology,2.97,2019-07-18
+731,Jesus Mccoy,30,Female,Physics,2.11,2023-01-31
+732,Amanda Pacheco,23,Female,Engineering,3.17,2022-06-07
+733,Jacqueline Rodriguez,28,Male,History,3.37,2022-12-02
+734,Colton Martinez,26,Male,English,2.98,2022-04-07
+735,Christopher Freeman,20,Male,Engineering,3.76,2020-10-04
+736,Mark Doyle,21,Female,Engineering,3.98,2022-09-15
+737,Tiffany Curtis,23,Male,Chemistry,2.57,2020-01-14
+738,Richard Silva,26,Female,Computer Science,2.27,2019-10-07
+739,Jacob Lewis,26,Male,Biology,2.47,2020-12-16
+740,Robert George,20,Female,Business,3.4,2024-03-05
+741,Jennifer Foster,29,Male,Physics,3.52,2019-12-21
+742,Diane Flowers,25,Female,Biology,2.76,2021-10-11
+743,Matthew Moore,27,Female,English,2.42,2020-07-11
+744,Mary Patrick,30,Female,Mathematics,2.86,2020-04-06
+745,Christine Morales,24,Female,History,3.51,2022-12-03
+746,Michelle Pena,28,Female,Mathematics,3.11,2021-08-11
+747,Michael Duncan,24,Female,Chemistry,2.72,2023-11-28
+748,Carl Diaz,30,Male,Psychology,2.76,2020-08-20
+749,Chelsea Hurst,23,Male,Psychology,2.11,2020-06-01
+750,Julie Esparza,18,Male,Chemistry,2.16,2022-11-26
+751,Dr. Katie Ramirez,22,Female,Physics,3.1,2024-01-18
+752,Randall Hall,21,Female,Mathematics,2.9,2022-03-02
+753,Christina David,24,Male,Chemistry,3.49,2019-11-08
+754,Dean Rogers,26,Male,English,3.63,2022-01-11
+755,Michele Johnson,29,Male,Computer Science,3.01,2022-09-23
+756,Jimmy Duffy,20,Male,Engineering,3.52,2021-01-13
+757,Brooke Bradley,20,Female,Mathematics,3.32,2023-07-01
+758,Jesse Parks,26,Male,Psychology,3.84,2023-08-18
+759,Emily Smith,19,Male,English,3.38,2020-10-08
+760,Allen Roberts,20,Female,Chemistry,2.59,2020-08-09
+761,Troy Wilson,26,Female,Engineering,2.24,2022-08-02
+762,Gwendolyn Cooper,30,Male,Physics,2.22,2021-07-13
+763,Caroline Campbell,19,Male,Engineering,2.52,2023-08-27
+764,Haley Rose,22,Male,Psychology,3.24,2022-07-07
+765,Victoria Schmidt,27,Male,Mathematics,2.11,2021-09-07
+766,Christine Schaefer,30,Male,Business,2.33,2020-09-08
+767,Molly Waller,26,Female,Physics,3.95,2019-12-16
+768,Elizabeth Mora,26,Female,Engineering,3.73,2021-04-19
+769,Johnny Byrd,24,Female,English,2.74,2022-07-27
+770,Adam Skinner,29,Female,English,3.15,2021-11-10
+771,Ann Wilkinson,30,Female,History,2.26,2022-06-26
+772,Jose Collins,29,Female,Business,3.82,2024-04-04
+773,Zachary Sullivan,22,Male,Psychology,3.09,2019-08-26
+774,Kelly Fuller,18,Male,Chemistry,2.57,2023-06-16
+775,Heather Griffin,27,Female,English,3.3,2024-05-15
+776,Jordan Rice,18,Male,Mathematics,3.91,2019-07-23
+777,Linda Flores,28,Female,Biology,3.84,2021-09-30
+778,Matthew Mullins,29,Male,Physics,2.15,2019-09-12
+779,Lauren Moore,27,Male,History,3.23,2024-04-17
+780,Michele Burns DDS,20,Male,Business,3.01,2024-04-29
+781,Jonathan Flores,26,Female,Biology,3.82,2021-11-27
+782,Jonathan Horne,25,Male,Computer Science,3.17,2021-04-17
+783,William Aguilar,22,Male,Chemistry,3.22,2021-03-14
+784,Richard Winters,27,Female,English,3.43,2023-07-03
+785,Susan Mcdowell,27,Male,Psychology,2.18,2022-02-16
+786,Sarah Jenkins,20,Male,Psychology,2.32,2020-02-21
+787,Joshua Arnold,24,Female,Physics,2.35,2021-08-13
+788,Jamie Fields,27,Male,Engineering,2.57,2021-12-14
+789,Matthew Taylor,30,Female,Biology,2.21,2020-07-01
+790,Dawn Lewis,30,Male,English,2.62,2022-11-02
+791,Carol Cannon,26,Female,Engineering,3,2021-11-13
+792,Tonya Kim,23,Female,History,2.97,2021-03-21
+793,Joshua Hoover,26,Male,Business,2.34,2023-02-09
+794,Susan Wright,19,Female,Computer Science,2.18,2020-04-11
+795,Patricia Bishop,22,Female,Physics,3.86,2024-02-11
+796,Mathew Andrews,27,Male,Psychology,2.03,2022-01-23
+797,Zachary Smith,26,Female,Mathematics,2.63,2023-01-29
+798,Lisa Reese,18,Male,Chemistry,2.11,2022-10-27
+799,Kylie Gilmore,19,Male,Physics,3.4,2022-06-18
+800,Matthew Woods,20,Female,Psychology,2.79,2019-11-28
+801,Heather Jones,19,Male,Chemistry,2.17,2022-09-25
+802,Daniel Johnson,22,Male,Physics,2.32,2022-02-19
+803,Shannon Warren,25,Male,Psychology,2.37,2022-07-28
+804,George Richards II,21,Male,Biology,3.91,2021-12-12
+805,Deborah Hall,26,Male,History,3.91,2022-06-14
+806,John Keith,21,Female,Engineering,3.71,2022-04-02
+807,Zachary Davis,27,Female,Biology,3.73,2024-02-15
+808,Lori Golden,25,Female,Engineering,2.5,2023-02-25
+809,Jonathan Hester,30,Male,Physics,3.83,2023-07-28
+810,Jessica Reynolds,23,Male,Psychology,2.35,2020-05-30
+811,Dana Stewart,29,Male,Psychology,2.44,2023-09-12
+812,Mr. Patrick Webster,29,Male,Mathematics,3.04,2021-07-23
+813,Teresa Miller,28,Female,Chemistry,3.75,2021-09-02
+814,Harold Wilson,27,Female,Chemistry,3.87,2020-12-27
+815,Shelby Waters,21,Female,English,3.19,2020-02-03
+816,Matthew Sanchez,25,Male,Business,2.18,2023-02-10
+817,Christian Payne,19,Male,Physics,3.73,2024-04-12
+818,Eric Richards,29,Male,Chemistry,2.38,2022-01-28
+819,Dr. Shannon Sandoval,18,Female,Engineering,3.57,2022-01-27
+820,Michael Jenkins,22,Male,Chemistry,3.83,2021-08-26
+821,Barbara Miranda,24,Female,Chemistry,3.31,2019-07-26
+822,Edward Martin,27,Male,History,3.88,2019-12-12
+823,Joseph Sanders,26,Male,Business,3.81,2020-06-11
+824,Steven Mooney,28,Male,English,3.32,2021-11-07
+825,Edward Wells,24,Male,Biology,3.38,2022-08-02
+826,Kendra Jackson,24,Male,History,3.4,2021-03-17
+827,Kristi Sherman,27,Female,Psychology,3.65,2024-02-15
+828,Matthew Greene,21,Male,Mathematics,3.02,2023-04-25
+829,Sharon Baker,30,Female,Biology,3.27,2024-04-29
+830,Taylor Austin,28,Male,English,2.29,2023-08-15
+831,Scott Obrien,29,Male,Business,2.34,2021-05-23
+832,Joshua Morgan,26,Male,Mathematics,2.67,2020-03-13
+833,Tina George DDS,27,Male,Biology,2.56,2020-12-01
+834,Kelsey Brown,24,Male,Engineering,2.87,2020-08-04
+835,Kathy Mack,22,Female,Business,3.95,2021-10-11
+836,Melanie Davis,23,Female,Mathematics,3.24,2024-03-02
+837,Amy Thompson,29,Male,History,3.29,2022-02-28
+838,David Dodson,19,Male,Engineering,3.33,2024-02-28
+839,Sabrina Williams,21,Female,Engineering,3.8,2019-12-27
+840,Sharon Farrell,22,Male,Chemistry,3.54,2023-11-15
+841,Ashley Stein,20,Female,Psychology,3.98,2019-10-05
+842,Paul Roberts,27,Male,Business,2.38,2020-08-12
+843,Danielle Johns,22,Male,Mathematics,3.48,2023-04-19
+844,Travis Norton,22,Male,Business,2.5,2021-05-27
+845,David Davis,20,Male,Mathematics,3.8,2019-10-19
+846,Johnny Harmon,25,Male,Business,2.6,2023-09-27
+847,Warren Miller,29,Female,Business,2.71,2023-12-27
+848,Lauren Williams,19,Female,Biology,3.25,2020-10-18
+849,Micheal Davis,30,Female,Physics,3.73,2023-05-28
+850,Ivan Young,22,Male,Psychology,3.93,2020-11-30
+851,John Ortiz,27,Male,English,2.57,2024-01-31
+852,Sarah West,22,Female,English,3.87,2020-05-04
+853,Laura Douglas,21,Female,History,2.64,2020-11-17
+854,Eric Alexander,24,Female,Engineering,3.63,2024-01-25
+855,Sabrina Watts,24,Female,Biology,2.07,2023-01-06
+856,Zachary Gonzales,19,Male,Physics,3.79,2020-10-05
+857,Alejandro Gamble,24,Female,Physics,2.81,2024-02-04
+858,Courtney Rios,19,Male,English,3.55,2023-12-25
+859,Daniel Martin,23,Male,Physics,3.69,2020-05-26
+860,Caroline Glass,25,Male,Biology,2.86,2023-06-21
+861,Robert Bailey,24,Male,Biology,3.9,2020-12-15
+862,Kayla Gardner,30,Male,Chemistry,2.07,2021-05-09
+863,Natalie Bryant,29,Male,Chemistry,3.96,2021-09-13
+864,Kayla Turner,22,Female,History,3.26,2019-08-19
+865,Samuel Khan,19,Female,English,3.55,2020-08-19
+866,Anna Martin,29,Male,Physics,2.7,2023-01-20
+867,Ricky Brewer,24,Female,Business,2.88,2024-01-30
+868,Nicole Gamble,28,Male,Computer Science,3.74,2020-09-29
+869,Brandon Kerr,20,Male,Mathematics,2.44,2022-09-12
+870,Christopher Sims,19,Male,Psychology,2.61,2022-07-19
+871,Robert Henry,26,Female,Engineering,2.15,2020-06-12
+872,Jennifer Wright,21,Female,Engineering,2.6,2021-12-20
+873,Jason Smith,28,Male,Physics,2.84,2022-12-19
+874,Phillip Brown,22,Male,Physics,2.34,2023-07-25
+875,Kyle Wilson,25,Female,Engineering,3.89,2021-06-24
+876,John King,21,Female,Physics,2.74,2023-01-17
+877,Tammy Chavez,27,Female,Engineering,3.27,2021-08-02
+878,Mikayla Tucker,22,Male,Chemistry,3.83,2024-06-30
+879,Mary Sanchez,26,Female,Computer Science,3.59,2024-01-24
+880,Sara Poole,27,Male,Engineering,2.66,2022-06-26
+881,Gregory Moore,25,Female,Computer Science,2.19,2020-06-30
+882,Patricia Allen,23,Male,History,3.93,2021-04-07
+883,Michael Mclaughlin,25,Female,Engineering,2.59,2022-03-07
+884,Jennifer Wallace,18,Male,Engineering,2.75,2020-04-07
+885,Paul Elliott,30,Male,Mathematics,3.8,2022-11-03
+886,Natalie Carey,29,Male,Mathematics,2.31,2022-04-10
+887,Jennifer Solomon,19,Female,History,3.85,2019-11-06
+888,Sean Marquez,29,Male,Physics,3.12,2022-07-09
+889,Peter Hernandez,21,Female,Biology,2.94,2024-04-21
+890,Jodi Peterson,27,Female,English,3.84,2022-12-08
+891,John Garrett,21,Female,History,3.05,2021-06-27
+892,John Pineda,20,Male,Biology,2.73,2020-03-01
+893,Michael Bell,28,Male,Chemistry,3.84,2021-11-26
+894,Carmen Garcia,21,Male,Psychology,3.61,2023-08-31
+895,Lisa Smith,30,Male,Engineering,3.51,2020-12-24
+896,Rebecca Williams,23,Male,Engineering,3.3,2020-02-07
+897,James Hurst,23,Female,Psychology,2.7,2022-11-29
+898,Kimberly Sawyer,30,Male,Physics,2.68,2022-03-27
+899,Brian Turner,21,Male,Biology,3.98,2022-05-22
+900,Alexander Yoder,28,Female,English,2.4,2021-01-07
+901,Cynthia Wilson PhD,21,Female,Psychology,3.59,2021-03-21
+902,Carol Miller,28,Male,Engineering,2.52,2022-01-13
+903,Dennis Brown,18,Female,Chemistry,3.7,2020-05-18
+904,Alyssa Fisher,27,Male,Mathematics,3.05,2024-01-13
+905,Mary Simon,19,Female,Engineering,2.53,2023-07-16
+906,Morgan Brown,22,Female,Psychology,3.18,2023-05-22
+907,Mr. James Shah MD,21,Female,English,2.32,2023-11-15
+908,George Mcknight,24,Female,Psychology,2.59,2022-12-16
+909,Lindsay Larson,29,Male,Physics,2.5,2019-09-20
+910,Troy Evans,29,Female,Psychology,2.47,2019-12-04
+911,Tyler Richardson,25,Male,Business,3.43,2022-10-30
+912,Tina Norton,18,Female,Computer Science,2.85,2020-03-10
+913,Corey Mccoy,19,Male,Psychology,2.11,2020-05-29
+914,Dr. Luis Neal,26,Female,Engineering,3.27,2023-05-02
+915,Judy Nelson,19,Female,Psychology,3.49,2020-01-07
+916,Lisa Ward,24,Male,Engineering,2.88,2023-02-18
+917,Connie Reynolds,29,Female,Chemistry,3.1,2021-10-20
+918,Robert Rogers,20,Female,Mathematics,3.11,2021-07-16
+919,Ryan Hammond,19,Male,Mathematics,3.28,2023-07-22
+920,Anna Carpenter,21,Female,Business,3.36,2020-12-15
+921,Gerald Abbott,23,Female,History,2.27,2020-06-15
+922,Jennifer Sims,30,Male,English,2.39,2024-02-25
+923,Ashley Mccarthy,27,Female,Biology,3.85,2019-10-30
+924,Richard Robinson,18,Male,Mathematics,3.56,2023-12-07
+925,Cynthia Young,28,Female,Biology,2.72,2023-02-01
+926,Melissa Hamilton,20,Female,History,2.49,2022-12-06
+927,Gail Singh,25,Male,History,3.86,2019-11-07
+928,Devin Jacobs MD,18,Female,Chemistry,2.09,2020-11-08
+929,Dustin White,29,Male,History,3.95,2022-07-04
+930,Catherine Pace,26,Female,Engineering,3.03,2023-11-30
+931,Mary Montoya,30,Male,Physics,2.76,2021-01-20
+932,Michelle Wilson,23,Female,Physics,3.4,2019-11-15
+933,Stacey Rodriguez,20,Male,Computer Science,2.42,2020-07-30
+934,Jo Garcia,22,Male,Business,3.22,2022-09-10
+935,Steven Rivera,26,Female,Engineering,3.22,2021-01-15
+936,Tiffany Anderson,28,Male,Chemistry,3.1,2021-11-03
+937,Jessica Watkins,18,Male,History,3.35,2021-04-08
+938,Jeffery Evans,27,Male,Psychology,3.61,2021-06-21
+939,Kyle Hogan,23,Male,Chemistry,2.44,2022-12-22
+940,Paul Rodriguez,20,Male,Computer Science,2.13,2023-03-17
+941,Angel Fernandez,26,Female,Mathematics,3.17,2024-02-05
+942,Dakota Mathis,18,Male,Chemistry,2.39,2023-07-18
+943,Tyler Shea,21,Female,Biology,3.02,2021-07-29
+944,Richard Vargas,24,Male,Business,2.14,2020-07-20
+945,Eric Murphy,18,Female,Business,3.85,2023-02-15
+946,Samantha Price,26,Male,Business,3.73,2023-07-09
+947,Kimberly Valencia,28,Female,Business,2.82,2022-03-13
+948,Kaitlin Hall,22,Male,Biology,2.97,2019-12-16
+949,Maurice Christensen,20,Female,Computer Science,2.67,2022-06-28
+950,Molly Montoya,22,Female,Chemistry,2.54,2022-02-11
+951,Andrew Hawkins,21,Male,Psychology,2.31,2022-03-10
+952,Wendy Thompson,27,Female,Business,3.65,2024-03-18
+953,Valerie Henson,22,Female,Business,2.81,2019-07-23
+954,Charles Moore,30,Female,Physics,3.28,2020-11-22
+955,Joshua Warner,18,Female,Computer Science,3.87,2022-07-20
+956,Samuel Roberson,22,Female,Biology,3.22,2021-03-24
+957,Jennifer Green,18,Female,Mathematics,3.64,2023-10-06
+958,Spencer Brock,20,Male,Psychology,3.86,2020-05-08
+959,Karen Montgomery,19,Male,Biology,2.05,2021-05-22
+960,Mrs. Kara Hopkins,26,Female,Biology,3.08,2023-01-30
+961,Teresa Adams,23,Female,Physics,3.87,2021-05-02
+962,David Mooney,20,Male,History,2.83,2022-06-09
+963,Mario Watts,20,Male,Mathematics,2.88,2021-04-15
+964,Alyssa Foster,25,Male,Engineering,2.9,2022-04-12
+965,Cynthia Cooke,30,Female,History,2.75,2020-02-14
+966,Stephanie Moody,25,Male,Physics,3.45,2023-05-17
+967,Tina Buck,27,Male,Business,3.11,2021-07-02
+968,Stephanie Fleming,25,Male,Computer Science,3.05,2021-08-16
+969,Collin Walton,29,Female,Psychology,3.46,2021-02-24
+970,Susan Brown,28,Male,Computer Science,2.39,2021-11-23
+971,Leslie Le,23,Female,History,2.89,2022-09-18
+972,Tara Stone,18,Female,Psychology,2.28,2023-02-01
+973,Christian Moore,21,Female,Psychology,2.55,2019-07-10
+974,Andrew Wang,21,Female,Psychology,2.17,2019-07-27
+975,Felicia Underwood,20,Female,Engineering,3.57,2024-03-23
+976,Matthew Thompson,29,Female,Business,3.17,2019-09-09
+977,Karen Oliver,26,Female,Physics,3.05,2023-04-01
+978,Wendy Hawkins,24,Female,English,2.48,2022-09-21
+979,Caleb Wright,24,Male,Physics,2.23,2023-08-19
+980,Gregory Stephens,26,Female,English,3.37,2019-08-10
+981,Ryan Drake,25,Male,Computer Science,2.74,2020-12-16
+982,Jerry Sanchez,30,Female,English,2.17,2024-03-18
+983,Jennifer Mckinney DVM,29,Female,Mathematics,3.7,2022-12-03
+984,Ricardo Burns,21,Male,History,2.08,2019-09-23
+985,Paul Vasquez,30,Female,History,3.45,2023-02-11
+986,Bonnie Fitzpatrick,20,Female,Biology,3.6,2023-04-29
+987,David Wilson,27,Male,History,2.17,2019-09-11
+988,Francisco Vargas,18,Female,Psychology,2.13,2022-09-08
+989,Tammy Palmer,27,Female,Psychology,3.36,2021-06-03
+990,Justin Galvan,18,Male,English,2.19,2023-08-09
+991,Christine Brown,28,Female,Mathematics,3.43,2020-07-02
+992,Kelsey Anderson,29,Female,Computer Science,2.82,2021-12-23
+993,Andrew Evans,21,Male,Business,2.02,2023-11-03
+994,Andrea Wallace,24,Male,Mathematics,3.72,2023-10-08
+995,John West,18,Male,Engineering,3.01,2021-12-27
+996,Amber Campbell,30,Female,Business,3.82,2020-02-20
+997,Caitlyn Palmer,21,Female,History,3.22,2021-06-18
+998,Lauren Harris,25,Female,Computer Science,2.66,2023-11-25
+999,Christopher Simmons,24,Male,Biology,2.15,2023-10-24
+1000,Melanie Rodriguez,22,Male,Mathematics,3.56,2022-10-18
